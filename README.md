@@ -1,4 +1,5 @@
-![Flutter Queen (1)](https://user-images.githubusercontent.com/107878396/189361167-253de5bb-4b27-4b86-88e7-575c2df12e64.png)
+![queen](https://user-images.githubusercontent.com/107878396/189361872-e97970d0-0043-4f82-991a-1187b0ba1bfe.png)
+
 
 <h1 align="center">Flutter Queen!</h1>
 <h3 align="center">A passionate Flutter Engineer.</h3>
