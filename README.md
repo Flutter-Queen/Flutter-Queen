@@ -1,6 +1,6 @@
-![FlutterQueen](https://user-images.githubusercontent.com/107878396/174651112-603cc68d-79d7-4dba-817a-4b96d5c89625.png)
+![Flutter Queen (1)](https://user-images.githubusercontent.com/107878396/189361167-253de5bb-4b27-4b86-88e7-575c2df12e64.png)
 
-<h1 align="center">Hey It's Flutter Queen!</h1>
+<h1 align="center">Flutter Queen!</h1>
 <h3 align="center">A passionate Flutter Engineer.</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=flutter-queen" alt="flutter-queen" /></a> </p>
